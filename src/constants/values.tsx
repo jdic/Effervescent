@@ -69,7 +69,7 @@ export const products: ProductsItemProps[] =
     alt: '',
     href: `#products`,
     img: '/test.webp',
-    price: '35.99',
+    price: '21.99',
     rating: 5,
     reviews: 134,
     id: uuidv4()
@@ -81,7 +81,7 @@ export const products: ProductsItemProps[] =
     alt: '',
     href: '#products',
     img: '/test.webp',
-    price: '35.99',
+    price: '99.99',
     rating: 5,
     reviews: 134,
     id: uuidv4()
@@ -93,19 +93,19 @@ export const products: ProductsItemProps[] =
     alt: '',
     href: '#products',
     img: '/test.webp',
-    price: '35.99',
+    price: '10.50',
     rating: 5,
     reviews: 134,
     id: uuidv4()
   },
   {
-    name: 'Pure Dispenser',
+    name: 'Pure',
     description: 'Antibacterial gel dispenser.',
     icon: <MdEgg />,
     alt: '',
     href: '#products',
     img: '/test.webp',
-    price: '35.99',
+    price: '25.99',
     rating: 5,
     reviews: 134,
     id: uuidv4()
